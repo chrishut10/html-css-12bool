@@ -1,0 +1,18 @@
+/* degug */
+[class*="col-"]{
+  min-height: 150px;
+  background-color: pink;
+  border: solid 1px #000;
+  text-align: center;
+  line-height: 150px;
+}
+
+.border-color{
+  background-color: rgb(252, 100, 100);
+  border: 1px solid white;
+  text-align: center;
+}
+
+.spazio{
+  padding: 5px;
+}
